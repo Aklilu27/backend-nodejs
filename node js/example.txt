@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+My name is **Aklilu Abera**, and I am a **Software Engineer** with a strong interest in software quality, usability, and user experience. I am applying for the Software QA / Manual Tester position, as my technical background and attention to detail align well with the role.
+
+I am comfortable manually testing web applications, identifying bugs, UI inconsistencies, broken links, and unexpected behavior. I approach software from a user’s perspective while applying logical thinking to uncover edge cases. I have experience writing clear, step-by-step bug reports and understand the importance of accurate documentation for efficient issue resolution.
+
+I am reliable, organized, and adaptable to new tools and workflows. I enjoy exploratory testing and re-testing fixes to ensure issues are fully resolved. I would welcome the opportunity to complete the practical challenge and contribute to delivering a smooth, error-free user experience.
+
+Sincerely,
+**Aklilu Abera**

@@ -1,0 +1,24 @@
+{
+  "name": "backend_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Aklilu",
+  "type": "commonjs",
+  "main": "model.js",
+  "scripts": {
+    "start": "node model.js",
+    "dev": "nodemon model.js"
+  },
+  "dependencies": {
+    "cookie": "^1.1.1",
+    "cookie-parser": "^1.4.7",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
